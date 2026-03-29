@@ -58,36 +58,18 @@
   </a>
 </p>
 
-### ⚙️ Mechanical / Engineering Tools
+### ⚙️ Mechanical Engineering Tools
 
 <p align="left">
-  <a href="https://www.3ds.com/products/catia" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dassaultsystemes.svg" height="40" alt="CATIA"/>
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="MATLAB"/>
-  </a>
-  <a href="https://www.appliedmaterials.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/appliedmaterials" height="40" alt="AutoMod / Applied Materials"/>
-  </a>
-  <a href="https://leica-geosystems.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/leica" height="40" alt="Leica"/>
-  </a>
-  <a href="https://www.hyundai-robotics.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/hyundai" height="40" alt="Hyundai Robotics"/>
-  </a>
-  <a href="https://www.autodesk.com/products/autocad/" target="_blank">
-    <img src="https://cdn.simpleicons.org/autodesk" height="40" alt="AutoCAD"/>
-  </a>
-  <a href="https://www.solidworks.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" height="40" alt="SolidWorks"/>
-  </a>
-  <a href="https://www.ptc.com/en/products/creo" target="_blank">
-    <img src="https://cdn.simpleicons.org/ptc" height="40" alt="Creo"/>
-  </a>
-  <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank">
-    <img src="https://cdn.simpleicons.org/siemens" height="40" alt="NX"/>
-  </a>
+  <a href="https://www.3ds.com/products/catia"><img src="https://img.shields.io/badge/CATIA-005386?style=for-the-badge&logo=dassaultsystemes&logoColor=white"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/></a>
+  <a href="https://www.appliedmaterials.com/"><img src="https://img.shields.io/badge/AutoMod-Applied%20Materials-blue?style=for-the-badge"/></a>
+  <a href="https://leica-geosystems.com/"><img src="https://img.shields.io/badge/Leica-Scan%20Automation-red?style=for-the-badge"/></a>
+  <a href="https://www.hyundai-robotics.com/"><img src="https://img.shields.io/badge/Hyundai-Robotics-002C5F?style=for-the-badge"/></a>
+  <a href="https://www.autodesk.com/products/autocad/"><img src="https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white"/></a>
+  <a href="https://www.solidworks.com/"><img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge"/></a>
+  <a href="https://www.ptc.com/en/products/creo"><img src="https://img.shields.io/badge/Creo-PTC-orange?style=for-the-badge"/></a>
+  <a href="https://www.plm.automation.siemens.com/global/en/products/nx/"><img src="https://img.shields.io/badge/NX-Siemens-009999?style=for-the-badge"/></a>
 </p>
 
 ## ✨ A little about me
