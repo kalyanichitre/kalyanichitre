@@ -68,44 +68,36 @@
 </a>
 
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
 </a>
 
 <a href="https://www.appliedmaterials.com/" target="_blank">
-  <img src="https://logo.clearbit.com/appliedmaterials.com" height="40"/>
+  <img src="https://cdn.simpleicons.org/appliedmaterials" height="40"/>
 </a>
 
 <a href="https://leica-geosystems.com/" target="_blank">
-  <img src="https://logo.clearbit.com/leica-geosystems.com" height="40"/>
+  <img src="https://cdn.simpleicons.org/leica" height="40"/>
 </a>
 
 <a href="https://www.hyundai-robotics.com/" target="_blank">
-  <img src="https://logo.clearbit.com/hyundai-robotics.com" height="40"/>
+  <img src="https://cdn.simpleicons.org/hyundai" height="40"/>
 </a>
 
 <a href="https://www.autodesk.com/products/autocad/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/autodesk.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/autodesk" height="40"/>
 </a>
 
 <a href="https://www.solidworks.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/SolidWorks_Logo.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" height="40"/>
 </a>
 
 <a href="https://www.ptc.com/en/products/creo" target="_blank">
-  <img src="https://logo.clearbit.com/ptc.com" height="40"/>
+  <img src="https://cdn.simpleicons.org/ptc" height="40"/>
 </a>
 
 <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank">
-  <img src="https://logo.clearbit.com/siemens.com" height="40"/>
+  <img src="https://cdn.simpleicons.org/siemens" height="40"/>
 </a>
 </p>
-
----
-
-## 🌱 Outside of Engineering
-- 🎨 Sketching & creative stuff (when my brain needs a break)
-- 📸 Photography — I like capturing small details
-- 🧩 Random problem solving / tinkering with ideas
-- ☕ Probably thinking about a new project
 
 ---
