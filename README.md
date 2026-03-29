@@ -1,8 +1,7 @@
 # Helloooo, I'm Kalyani 😺
 
 💻 Software Engineer  
-⚙️ Mechanical Engineering + Digital Manufacturing  
-🧠 I like building things that actually *do something*  
+⚙️ Mechanical Engineer + Digital Manufacturing
 
 ## 🌐 Connect with me
 
@@ -74,6 +73,7 @@
 
 ## ✨ A little about me
 
-- I like building at the intersection of software and real-world systems
+- I like building at the intersection of software and real-world systems :)
+- I understand how cars go from design → manufacturing → assembly line 🚗
 - I enjoy puzzles, geoguessr and learning new languages (currently learning German!)
-- Outside of engineering, I’m into art 🎨, photography📸, and making things look nice ✨ :)
+- Outside of engineering, I’m into art 🎨, photography📸, and making things look nice ✨
