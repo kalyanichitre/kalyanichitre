@@ -5,6 +5,12 @@
 🧠 I like building things that actually *do something*  
 
 ---
+## 🌐 Connect with me: 
+<p>
+  <a href="https://www.linkedin.com/in/kalyanichitre/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+</p>
 
 ## 🛠 Tools of trade:
 
@@ -58,31 +64,39 @@
 
 <p>
 <a href="https://www.3ds.com/products/catia" target="_blank">
-  <img src="https://img.shields.io/badge/CATIA-005386?style=for-the-badge" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dassaultsystemes.svg" height="40"/>
 </a>
+
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40"/>
 </a>
+
 <a href="https://www.appliedmaterials.com/" target="_blank">
-  <img src="https://img.shields.io/badge/AutoMod-Applied%20Materials-blue?style=for-the-badge"/>
+  <img src="https://logo.clearbit.com/appliedmaterials.com" height="40"/>
 </a>
+
 <a href="https://leica-geosystems.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Leica-Scan%20Automation-red?style=for-the-badge"/>
+  <img src="https://logo.clearbit.com/leica-geosystems.com" height="40"/>
 </a>
+
 <a href="https://www.hyundai-robotics.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Hyundai-Robotics-darkblue?style=for-the-badge"/>
+  <img src="https://logo.clearbit.com/hyundai-robotics.com" height="40"/>
 </a>
+
 <a href="https://www.autodesk.com/products/autocad/" target="_blank">
-  <img src="https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/autodesk.svg" height="40"/>
 </a>
+
 <a href="https://www.solidworks.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/SolidWorks_Logo.svg" height="40"/>
 </a>
+
 <a href="https://www.ptc.com/en/products/creo" target="_blank">
-  <img src="https://img.shields.io/badge/Creo-PTC-orange?style=for-the-badge"/>
+  <img src="https://logo.clearbit.com/ptc.com" height="40"/>
 </a>
+
 <a href="https://www.plm.automation.siemens.com/global/en/products/nx/" target="_blank">
-  <img src="https://img.shields.io/badge/NX-Siemens-green?style=for-the-badge"/>
+  <img src="https://logo.clearbit.com/siemens.com" height="40"/>
 </a>
 </p>
 
@@ -95,6 +109,3 @@
 - ☕ Probably thinking about a new project
 
 ---
-
-## 🌐 Connect
-[LinkedIn](https://www.linkedin.com/in/kalyanichitre/)
