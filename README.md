@@ -11,6 +11,12 @@
   </a>
 </p>
 
+<p align="left">
+  <a href="https://leetcode.com/u/kalyanichitre/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode"/>
+  </a>
+</p>
+
 ## 🛠 Tools of Trade
 
 ### 💻 Software
