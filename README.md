@@ -9,11 +9,8 @@
   <a href="https://www.linkedin.com/in/kalyanichitre/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
   </a>
-</p>
-
-<p align="left">
   <a href="https://leetcode.com/u/kalyanichitre/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" alt="LeetCode"/>
+    <img src="https://cdn.simpleicons.org/leetcode" height="40" alt="LeetCode"/>
   </a>
 </p>
 
